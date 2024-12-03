@@ -16,6 +16,7 @@ Follow the above instructions here: https://sites.google.com/view/sitelpolyphoni
 - Click on the <b>Hex-values</b> tab.
 - Paste the encoded binary to the search bar, then click on OK.
 - Replace the ringtone with a custom MIDI sequence that matches the melody (Mx), ringer (Tx), or alert (Ax) tone.
+- 🇬🇧 For UK Users: - Replace the ringtone with a custom MIDI sequence that matches the ringtone (RTx).
 
 The custom MIDI sequences are made only for the Dialog SC1444x software synthesizer used in current Panasonic handset models.
 
