@@ -7,7 +7,7 @@ Deregister your handset from the base using "#131" to prevent your handset from 
 ## Firmware Flashing Tutorial
 Follow the above instructions here: https://sites.google.com/view/sitelpolyphonic/modding-tutorial
 
-## What to do with original BIN files
+## What to do with original MIDI files
 
 - Load the binary file with a text editor
 - Copy all of the hex values in the binary file
@@ -18,3 +18,5 @@ Follow the above instructions here: https://sites.google.com/view/sitelpolyphoni
 
 ## For original MIDI files (Vision Inc.):
 I own nothing.
+The original midi files are both used as a replacement tool for custom ringtones and for your listening pleasure.
+All the ringer tones by Vision Inc. are stored at the "everything" folder.
