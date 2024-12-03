@@ -19,4 +19,4 @@ Follow the above instructions here: https://sites.google.com/view/sitelpolyphoni
 ## For original MIDI files (Vision Inc.):
 I own nothing.
 The original midi files are both used as a replacement tool for custom ringtones and for your listening pleasure.
-All the ringer tones by Vision Inc. are stored at the "everything" folder.
+All the ringer tones by Vision Inc. (including the European DECT Exclusives) are stored at the "everything" folder.
