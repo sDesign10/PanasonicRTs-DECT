@@ -9,12 +9,17 @@ Follow the above instructions here: https://sites.google.com/view/sitelpolyphoni
 
 ## What to do with original MIDI files
 
-- Load the binary file with a text editor
+- Load the MIDI with HxD
 - Copy all of the hex values in the binary file
-- Open the firmware dump with HxD
+- Open the handset's firmware dump with HxD
 - Press <kbd>Ctrl</kbd> + <kbd>F</kbd>
 - Click on the <b>Hex-values</b> tab.
 - Paste the encoded binary to the search bar, then click on OK.
+- Replace the ringtone with a custom MIDI sequence that matches the melody (Mx), ringer (Tx), or alert (Ax) tone.
+
+The custom MIDI sequences are made only for the Dialog SC1444x software synthesizer used in current Panasonic handset models.
+
+🌧️ DSP Group DCX SoCs are no longer supported. as the firmware flashing or other tools for the SoC are no longer available as of today as a result of the DSPG acquisition by Synaptics.
 
 ## For original MIDI files (Vision Inc.):
 I own nothing.
