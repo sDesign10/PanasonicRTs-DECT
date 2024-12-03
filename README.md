@@ -19,7 +19,7 @@ Follow the above instructions here: https://sites.google.com/view/sitelpolyphoni
 
 The custom MIDI sequences are made only for the Dialog SC1444x software synthesizer used in current Panasonic handset models.
 
-🌧️ DSP Group DCX SoCs are no longer supported. as the firmware flashing or other tools for the SoC are no longer available as of today as a result of the DSPG acquisition by Synaptics.
+🌧️ DSP Group DCX SoCs are no longer supported. as the "Vega Memory Tool" or other tools for the SoC are no longer available as of today as a result of the DSPG acquisition by Synaptics.
 
 ## For original MIDI files (Vision Inc.):
 I own nothing.
