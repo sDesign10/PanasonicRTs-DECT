@@ -1,0 +1,15 @@
+The Panasonic ringtone set used today.
+
+Tone 3 - T3.MID
+Tone 4 - T4.MID
+Tone 5 - T5.MID
+Melody 1 - M1.MID
+Melody 2 - M2.BMID
+Melody 3 - M3.MID
+Melody 4 - M4.MID
+Melody 5 - M5.MID - Jingle Bells 3
+Melody 6 - M6.MID - Spring
+Melody 7 - M7.MID - Ode to Joy
+Melody 8 - M8.MID - Ride of the Valkyries
+Melody 9 - M9.MID
+Melody 10 - M10.MID - Sprach Zarathustra
