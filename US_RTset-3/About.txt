@@ -13,3 +13,5 @@ Melody 7 - M7.MID - Ode to Joy
 Melody 8 - M8.MID - Ride of the Valkyries
 Melody 9 - M9.MID
 Melody 10 - M10.MID - Sprach Zarathustra
+Alert 1 - A1.MID
+Alert 2 - A2.MID
