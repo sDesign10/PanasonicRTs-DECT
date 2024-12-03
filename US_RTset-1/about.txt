@@ -6,11 +6,11 @@ Tone 2 - T2.BIN
 Tone 3 - T3.BIN
 Tone 4 - T4.BIN
 Tone 5 - T5.BIN
-Melody 1 - M1.BIN - 
+Melody 1 - M1.BIN - Fantasie Impromptu
 Melody 2 - M2.BIN - Canon In D
 Melody 3 - M3.BIN - Spring
-Melody 4 - M4.BIN - Swan Lake Theme
-Melody 5 - M5.BIN - 
+Melody 4 - M4.BIN - Swan Lake Theme (Act 2 Scene 10)
+Melody 5 - M5.BIN - Caprice no. 24
 Melody 6 - M6.BIN
 Melody 7 - M7.BIN
 Melody 8 - M8.BIN
