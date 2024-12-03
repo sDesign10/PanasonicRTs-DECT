@@ -1,4 +1,4 @@
-# PanasonicCustomRTs-DECT
+# Panasonic: Original and Custom Ringtones
 Custom ringtones for your Panasonic cordless phone
 
 ## ⚠ Safety first!
@@ -15,3 +15,6 @@ Follow the above instructions here: https://sites.google.com/view/sitelpolyphoni
 - Press <kbd>Ctrl</kbd> + <kbd>F</kbd>
 - Click on the <b>Hex-values</b> tab.
 - Paste the encoded binary to the search bar, then click on OK.
+
+## For original MIDI files (Vision Inc.):
+I own nothing.
