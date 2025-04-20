@@ -1,4 +1,5 @@
 The ringtone set used in handsets released in 2014.
+(Vision Inc. 2012)
 
 Tone 3 - T3.BIN
 Tone 4 - T4.BIN
